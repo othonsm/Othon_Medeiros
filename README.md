@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá! 😁 Meu nome é Othon Medeiros!:+1:
+Olá! 😁 Sou o Othon!:+1:
 
 Sou um desenvolvedor muito curioso em front-end e recém formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento mobile :iphone:  e web:globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.
 
