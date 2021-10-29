@@ -1,8 +1,7 @@
 <h2 align="center"><br/>
   
-<image align="center">![giphy](https://user-images.githubusercontent.com/38433238/139483370-ff190efb-8274-4d6b-bc01-33de8d4e90c2.gif)</image><br/>
+![obiwan-hellothere](https://user-images.githubusercontent.com/38433238/139498468-4eb2c999-3ad6-4ee2-a580-6181c864b5d5.gif)<br/>
   
-<h1 align="center">Hi there 👋</h1>
 <h2 align="center" >Sou o Othon! :+1:</h2>
   
 <p>Desenvolvedor muito curioso em front-end e formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento web-app 📱 e web-pages :globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.</p>
