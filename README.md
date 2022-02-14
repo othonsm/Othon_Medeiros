@@ -5,7 +5,7 @@
 
 <h2 align="center" >Sou o Othon! :+1:</h2>
   
-<p>Desenvolvedor muito curioso em front-end e formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento web-app 📱 e web-pages :globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.</p>
+<p>Desenvolvedor muito curioso em Front-end e formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento web-app 📱 e web-pages :globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.</p>
 <p>Gosto muito de assistir filmes :tv: , séries :clapper: e games :video_game:.</p> 
 <p>Seja bem vindo aos meus codes :octocat:.</p><br/>
 
