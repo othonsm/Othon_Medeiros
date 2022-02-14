@@ -1,12 +1,13 @@
 <h2 align="center"><br/>
-  
-![obiwan-hellothere](https://user-images.githubusercontent.com/38433238/139498468-4eb2c999-3ad6-4ee2-a580-6181c864b5d5.gif)<br/>
-  
+ <p align="center">
+   <a href="https://othonsm.github.io/" target="_blank" ><img width="300px" src="https://github.com/othonsm/othonsm.github.io/blob/main/img/foto-perfil.png" align="center" alt="My Page" /></a>
+</p> <!--![obiwan-hellothere](https://user-images.githubusercontent.com/38433238/139498468-4eb2c999-3ad6-4ee2-a580-6181c864b5d5.gif)<br/>-->
+
 <h2 align="center" >Sou o Othon! :+1:</h2>
   
 <p>Desenvolvedor muito curioso em front-end e formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento web-app 📱 e web-pages :globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.</p>
-Gosto muito de assistir filmes :tv: , séries :clapper: e games :video_game:. 
-Seja bem vindo aos meus codes :octocat:.</p><br/>
+<p>Gosto muito de assistir filmes :tv: , séries :clapper: e games :video_game:.</p> 
+<p>Seja bem vindo aos meus codes :octocat:.</p><br/>
 
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/othonsm)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](othonsmedeiro@gmail.com)
@@ -14,7 +15,7 @@ Seja bem vindo aos meus codes :octocat:.</p><br/>
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othonmedeiros/)
 
 <div style= align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Othonsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>               <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othonsm&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Othonsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othonsm&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="left"><br/>
