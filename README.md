@@ -3,9 +3,9 @@
    <a href="https://othonsm.github.io/" target="_blank" ><img width="300px" src="https://github.com/othonsm/othonsm.github.io/blob/main/img/foto-perfil.png" align="center" alt="My Page" /></a>
 </p> <!--![obiwan-hellothere](https://user-images.githubusercontent.com/38433238/139498468-4eb2c999-3ad6-4ee2-a580-6181c864b5d5.gif)<br/>-->
 
-<h2 align="center" >Sou o Othon! :+1:</h2>
+<h2 align="center" >Olá! Sou o Othon! :+1:</h2>
   
-<p>Desenvolvedor muito curioso em Front-end e formado em Analise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento web-app 📱 e web-pages :globe_with_meridians:, posto aqui tudo que estou estudando e produzindo em minha jornada DEV.</p>
+<p>Olá a todos! Sou um profissional dedicado e multifacetado no mundo da tecnologia. Como Analista de Sistemas, trago uma paixão por transformar conceitos em soluções de software funcionais e eficientes. Sou formado como Analista de Sistemas, iniciei como desenvolvedor Front-end que me permite criar interfaces visualmente atraentes e intuitivas, utilizando as mais recentes tecnologias de HTML, CSS e JavaScript em Frameworks Wordpress para proporcionar experiências aos usuários. Mas não paro por aí, também tenho um olhar atento para a segurança cibernética. Com habilidades de Pentester, tenho estudado bastante em identificar e mitigar vulnerabilidades, garantindo que os sistemas que desenvolvo estejam robustamente protegidos. Estou entusiasmado em combinar minha expertise em análise de sistemas, design de interfaces e segurança para enfrentar os desafios tecnológicos mais complexos.</p>
 <p>Gosto muito de assistir filmes :tv: , séries :clapper: e games :video_game:.</p> 
 <p>Seja bem vindo aos meus codes :octocat:.</p><br/>
 
