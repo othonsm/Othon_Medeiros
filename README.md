@@ -13,6 +13,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](othonsmedeiro@gmail.com)
   [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T017A1739LK/C0173326B2A/user_profile/U016V2QNA0P)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othonmedeiros/)
+  
 
 <div style= align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Othonsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othonsm&layout=compact&langs_count=7&theme=github_dark"/>
@@ -28,5 +29,8 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/WordPress-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <!--<img align="center" alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />-->
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img align="center" alt="Hacker Ethical" src="https://img.shields.io/badge/Hacker_Ethical-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Red" />
   </div>
 </div>
